@@ -6,7 +6,8 @@
 - 🗣️ I'm speaking French and try to improve my English as I can. I aim to learn German, Danish, Swedish, and later Spanish as well.
 - ⌨️ I code in C, Python, Discord.Py, SQL. And I may use HTML and CSS sometimes.
 - 📫 You can contact me with my mail : morgan.guichard@epitech.eu !
-- 👷 I want to work in Cyber, but am interested in Datas, AI, Fullstack, kinda everything about coding !
+- 👷 I want to work in Cyber for French Defense, but am interested in Datas, AI, Fullstack, kinda everything about coding !
+- 
 
 <!---
 morgangch/morgangch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
