@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morgangch - Morgan GUICHARD.
 - 🇫🇷 French Student at Epitech Montpellier.
-- 🎂 18 yo and ready to serve !
+- 🎂 19 yo and ready to serve !
 - 💚 I’m in love with learning itself, love to code, to know, to see, to experiment, and to feel. Out of that, my subjects of interest are defense, history, geography, geopolitics, video games, IT.
 - 🌱 I’m currently learning C, and aim to know as mush as possible !
 - 🗣️ I'm speaking French and try to improve my English as I can. I aim to learn German, Danish, Swedish, and later Spanish as well.
